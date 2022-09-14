@@ -65,6 +65,8 @@ class JiWei:
 
 
 
+
+
         # a = c.app_current()
         # #print (a)
         # #print(c.alert.exists)
